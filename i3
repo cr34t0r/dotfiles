@@ -1,0 +1,1 @@
+/home/nrh/.config/i3/
